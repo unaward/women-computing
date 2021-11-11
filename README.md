@@ -9,8 +9,12 @@
 </p>
 <p>It seems ridiculous that more women worked in coding and computing in the 60s, a time that was less protective of women’s rights at work, than today, which many would suggest is more progressive. In 2017, 20 percent of Google’s technical employees were women, only 1 percent were black and 3 percent were hispanic. So how can the tech industry be more inclusive?
 </p>
+<p>Organizations like Built By Girls and Girls Who Code aim to support girls and increase the number of women in computer science. Girls Who Code runs programs that teach girls skills like programming, robotics and web design, whilst Built By Girls helps girls 15-22 to get involved with tech by offering mentorship and guidance. They even were endorsed by Michelle Obama as part of their Let Girls Build Challenge project. By 2014 95 percent of female students who had taken part in a Girls Who Code program were studying computer science at university. 
+</p>
+<img width="1007" alt="Screenshot 2021-11-11 at 14 12 56" src="https://user-images.githubusercontent.com/93995099/141312684-7f3cf340-c41b-4ccc-abd8-c520bb4454e3.png">
+</p>
 <p>Similarly, Digi-Gxl is a platform, founded by Catty Taylor, that promotes women, trans people, intersex and non binary digital designers in an industry dominated by men. They currently represent 250 creatives. Earlier this year Digi-Gxl partnered with The Institute of Coding to offer tech related workshops for women aged between 16 and 18, in order to get more girls excited about tech.
 </p>
-  <img width="720" alt="Screenshot 2021-11-11 at 13 05 15" src="https://user-images.githubusercontent.com/93995099/141311737-88e12374-c20d-4d32-98d7-acff9966191b.png">
+<img width="720" alt="Screenshot 2021-11-11 at 13 05 15" src="https://user-images.githubusercontent.com/93995099/141311737-88e12374-c20d-4d32-98d7-acff9966191b.png">
 </p>
 <p>There is a growing digital skills gap, and yet only 10% of A Level computer science candidates are girls. It is clear that the coding community needs to undergo a cultural change. In order for more girls to be interested in coding the tech industry needs to become more diverse - they need to see and be taught by women in computing. Although this is difficult, with the help of organisations and digital designers championing more women in coding, it seems more plausible. 
