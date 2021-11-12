@@ -15,6 +15,6 @@
 </p>
 <p>Similarly, Digi-Gxl is a platform, founded by Catty Taylor, that promotes women, trans people, intersex and non binary digital designers in an industry dominated by men. They currently represent 250 creatives. Earlier this year Digi-Gxl partnered with The Institute of Coding to offer tech related workshops for women aged between 16 and 18, in order to get more girls excited about tech.
 </p>
-<img width="720" alt="Screenshot 2021-11-11 at 13 05 15" src="https://user-images.githubusercontent.com/93995099/141311737-88e12374-c20d-4d32-98d7-acff9966191b.png">
+<img width="1023" alt="Screenshot 2021-11-12 at 12 22 29" src="https://user-images.githubusercontent.com/93995099/141466480-bd06229b-d615-4c14-a4c7-a4a28ea684f9.png">
 </p>
 <p>There is a growing digital skills gap, and yet only 10% of A Level computer science candidates are girls. It is clear that the coding community needs to undergo a cultural change. In order for more girls to be interested in coding the tech industry needs to become more diverse - they need to see and be taught by women in computing. Although this is difficult, with the help of organisations and digital designers championing more women in coding, it seems more plausible. 
